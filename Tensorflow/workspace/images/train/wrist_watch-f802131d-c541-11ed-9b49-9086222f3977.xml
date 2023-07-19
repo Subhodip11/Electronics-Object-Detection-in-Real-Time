@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wrist_watch</folder>
+	<filename>wrist_watch-f802131d-c541-11ed-9b49-9086222f3977.jpg</filename>
+	<path>E:\Tensorflow Object Detection 3\TFODCourse\Tensorflow\workspace\images\collectedimages\wrist_watch\wrist_watch-f802131d-c541-11ed-9b49-9086222f3977.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Watch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>167</ymin>
+			<xmax>207</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>

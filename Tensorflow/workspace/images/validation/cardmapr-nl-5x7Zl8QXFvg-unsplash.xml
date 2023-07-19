@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test1</folder>
+	<filename>cardmapr-nl-5x7Zl8QXFvg-unsplash.jpg</filename>
+	<path>E:\Tensorflow Object Detection 3\TFODCourse\Tensorflow\workspace\images\previous_image_sets\test1\cardmapr-nl-5x7Zl8QXFvg-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>427</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mobile-phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>85</ymin>
+			<xmax>388</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+</annotation>

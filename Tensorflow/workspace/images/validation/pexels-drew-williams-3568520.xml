@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images_new</folder>
+	<filename>pexels-drew-williams-3568520.jpg</filename>
+	<path>E:\Tensorflow Object Detection 3\TFODCourse\Tensorflow\workspace\images\collectedimages\images_new\pexels-drew-williams-3568520.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mobile-phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>170</ymin>
+			<xmax>408</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Watch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>565</xmin>
+			<ymin>266</ymin>
+			<xmax>616</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

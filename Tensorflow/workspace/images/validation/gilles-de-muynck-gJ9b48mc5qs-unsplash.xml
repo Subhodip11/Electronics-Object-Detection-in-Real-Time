@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test1</folder>
+	<filename>gilles-de-muynck-gJ9b48mc5qs-unsplash.jpg</filename>
+	<path>E:\Tensorflow Object Detection 3\TFODCourse\Tensorflow\workspace\images\previous_image_sets\test1\gilles-de-muynck-gJ9b48mc5qs-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>1137</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Watch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>496</ymin>
+			<xmax>387</xmax>
+			<ymax>597</ymax>
+		</bndbox>
+	</object>
+</annotation>

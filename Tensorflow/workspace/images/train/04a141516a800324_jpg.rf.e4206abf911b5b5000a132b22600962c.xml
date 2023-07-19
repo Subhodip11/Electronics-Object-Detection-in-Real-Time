@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>04a141516a800324_jpg.rf.e4206abf911b5b5000a132b22600962c.jpg</filename>
+	<path>04a141516a800324_jpg.rf.e4206abf911b5b5000a132b22600962c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Watch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>195</xmin>
+			<xmax>355</xmax>
+			<ymin>80</ymin>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test1</folder>
+	<filename>amir-hanna-sweUF7FcyP4-unsplash.jpg</filename>
+	<path>E:\Tensorflow Object Detection 3\TFODCourse\Tensorflow\workspace\images\previous_image_sets\test1\amir-hanna-sweUF7FcyP4-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mobile-phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>246</ymin>
+			<xmax>440</xmax>
+			<ymax>665</ymax>
+		</bndbox>
+	</object>
+</annotation>

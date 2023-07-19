@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test1</folder>
+	<filename>timothy-rubby-LGZ1LcBPFs0-unsplash.jpg</filename>
+	<path>E:\Tensorflow Object Detection 3\TFODCourse\Tensorflow\workspace\images\previous_image_sets\test1\timothy-rubby-LGZ1LcBPFs0-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Watch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>459</ymin>
+			<xmax>254</xmax>
+			<ymax>516</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Watch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>387</xmin>
+			<ymin>496</ymin>
+			<xmax>447</xmax>
+			<ymax>547</ymax>
+		</bndbox>
+	</object>
+</annotation>

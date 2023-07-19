@@ -1,0 +1,12 @@
+virtual-env3/
+.ipynb_checkpoints/
+Tensorflow/workspace/images/test/*.jpg
+Tensorflow/workspace/images/train/*.jpg
+Tensorflow/workspace/images/validation/*.jpg
+Tensorflow/models/
+Tensorflow/workspace/pre-trained-models
+Tensorflow/labelimg/
+Tensorflow/protoc/
+Tensorflow/workspace/models/ssd_update
+Tensorflow/workspace/annotations/
+Tensorflow/workspace/annotations2/

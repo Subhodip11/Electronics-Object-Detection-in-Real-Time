@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test1</folder>
+	<filename>img-8.jpeg</filename>
+	<path>E:\Tensorflow Object Detection 3\TFODCourse\Tensorflow\workspace\images\previous_image_sets\test1\img-8.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Watch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>566</xmin>
+			<ymin>250</ymin>
+			<xmax>694</xmax>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+</annotation>

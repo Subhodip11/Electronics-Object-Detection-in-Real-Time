@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_new</folder>
+	<filename>pexels-fernando-arcos-190819.jpg</filename>
+	<path>E:\Tensorflow Object Detection 3\TFODCourse\Tensorflow\workspace\images\collectedimages\images_new\pexels-fernando-arcos-190819.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Watch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>125</ymin>
+			<xmax>435</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+</annotation>

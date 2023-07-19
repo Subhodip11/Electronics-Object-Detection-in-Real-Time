@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test1</folder>
+	<filename>oscar-nord-8l9VxXI28tY-unsplash.jpg</filename>
+	<path>E:\Tensorflow Object Detection 3\TFODCourse\Tensorflow\workspace\images\previous_image_sets\test1\oscar-nord-8l9VxXI28tY-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>799</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mobile-phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>193</ymin>
+			<xmax>425</xmax>
+			<ymax>648</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test1</folder>
+	<filename>neil-soni-6wdRuK7bVTE-unsplash.jpg</filename>
+	<path>E:\Tensorflow Object Detection 3\TFODCourse\Tensorflow\workspace\images\previous_image_sets\test1\neil-soni-6wdRuK7bVTE-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mobile-phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>289</ymin>
+			<xmax>411</xmax>
+			<ymax>647</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test1</folder>
+	<filename>kiran-ck-UkO7K1CPFS8-unsplash.jpg</filename>
+	<path>E:\Tensorflow Object Detection 3\TFODCourse\Tensorflow\workspace\images\previous_image_sets\test1\kiran-ck-UkO7K1CPFS8-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>949</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Watch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>334</ymin>
+			<xmax>372</xmax>
+			<ymax>623</ymax>
+		</bndbox>
+	</object>
+</annotation>

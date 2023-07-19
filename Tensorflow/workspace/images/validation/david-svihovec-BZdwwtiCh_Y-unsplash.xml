@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_new</folder>
+	<filename>david-svihovec-BZdwwtiCh_Y-unsplash.jpg</filename>
+	<path>E:\Tensorflow Object Detection 3\TFODCourse\Tensorflow\workspace\images\collectedimages\images_new\david-svihovec-BZdwwtiCh_Y-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Watch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>207</ymin>
+			<xmax>379</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>

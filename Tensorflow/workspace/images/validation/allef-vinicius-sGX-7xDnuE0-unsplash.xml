@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test1</folder>
+	<filename>allef-vinicius-sGX-7xDnuE0-unsplash.jpg</filename>
+	<path>E:\Tensorflow Object Detection 3\TFODCourse\Tensorflow\workspace\images\previous_image_sets\test1\allef-vinicius-sGX-7xDnuE0-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Watch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>445</xmin>
+			<ymin>670</ymin>
+			<xmax>544</xmax>
+			<ymax>769</ymax>
+		</bndbox>
+	</object>
+</annotation>

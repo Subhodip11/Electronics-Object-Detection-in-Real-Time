@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test1</folder>
+	<filename>close-up-modern-man-accessories.jpg</filename>
+	<path>E:\Tensorflow Object Detection 3\TFODCourse\Tensorflow\workspace\images\previous_image_sets\test1\close-up-modern-man-accessories.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Watch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>435</xmin>
+			<ymin>259</ymin>
+			<xmax>534</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>04644045d93b510a_jpg.rf.cc4bc8376084d6e9f095a2f947904f9a.jpg</filename>
+	<path>04644045d93b510a_jpg.rf.cc4bc8376084d6e9f095a2f947904f9a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mobile-phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>56</xmin>
+			<xmax>617</xmax>
+			<ymin>152</ymin>
+			<ymax>403</ymax>
+		</bndbox>
+	</object>
+</annotation>

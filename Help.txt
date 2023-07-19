@@ -1,0 +1,33 @@
+To check example detections, check the folder named "Example Detections", which contains detections made by the model on real life static images.
+
+Run the following files in virtual-env3. To activate the virtual environment:-
+1) Open poweshell
+2) Enter the command -> "virtual-env3/scripts/activate" to activate the environment.
+
+To capture more images and annotate them, follow the steps below:-
+1) Open the "Dataset collection & annotation" notebook.
+2) Import the modules mentioned in cells
+3) Create a folder to save the captured images
+4) Run the cell which contains code for image capture.
+5) Enter inside the folder where LabelImg is installed.
+6) Run the cell to start the LabelImg software for annotating the images.
+7) Save them in the folder where images where captured. 
+
+To pre process the dataset, go to the location -> "Electronics Object Detection in real-time using SSD\Tensorflow\workspace\images" and follow the steps 
+below:-
+1) Import the modules.
+2) All the below codes written in cells are to check the number of object class, number of bounding boxes, number of images per class, changing annotation for each object class, etc.
+3) Use the desired cell of your choice to process the annotation files by changing the controlling the bounding box annotations, coordinates and more.
+4) To run any cell, just specify the folder path in which the image files with their annotations are stored.
+
+To train, evaluate and test model for detection, follow the steps below:-
+1) Open the "Training, Validating & Testing" notebook.
+2) Import the modules.
+3) Import all the paths.
+4) Tensorflow environment is already set up, so no need to install Tensorflow from scratch again.
+5) Load the pipline configuration file.
+6) Specify the path for image to make detection or just run the cell below it, which randomly picks an image from the folder and store its path.
+7) Run the cell for performing detections in static image.
+8) Run the cell below it to check, models performance in real-time.
+
+Once the model is checked, deactivate the environment by giving the command -> "deactivate"
